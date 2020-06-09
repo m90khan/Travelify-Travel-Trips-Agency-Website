@@ -96,7 +96,7 @@ ul li {
       rgba(36, 36, 36, 0.9),
       transparent
     ),
-    url("/img/landing-page.jpg");
+    url("img/landing-page.jpg");
 
   background-position: center;
   background-size: cover;
@@ -122,7 +122,7 @@ ul li {
       rgba(36, 36, 36, 0.7),
       transparent
     ),
-    url("/img/new-york-page.png");
+    url("img/new-york-page.png");
 
   background-position: center;
   background-size: cover;
@@ -222,7 +222,7 @@ ul li {
 /* Contact */
 #contact {
   min-height: 100vh;
-  background: url(/img/contact-mountain.png);
+  background: url(img/contact-mountain.png);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
