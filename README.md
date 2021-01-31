@@ -1,6 +1,5 @@
 # Travelify-Travel-Trips-Agency-Website
 
- 
 <br />
 <p align="center">
   <a href="https://m90khan.github.io/Travelify-Travel-Trips-Agency-Website/">
@@ -26,8 +25,8 @@ Single Page Website <br />
 ### About the Project
 
 Live: https://m90khan.github.io/Travelify-Travel-Trips-Agency-Website/
-<img src="./Travelify-Cover.jpg">
-<img src="./Travelify.jpg">
+<img src="./img/Travelify-Cover.jpg">
+<img src="./img/Travelify.jpg">
 
 ### Connect with me:
 
@@ -41,10 +40,7 @@ Live: https://m90khan.github.io/Travelify-Travel-Trips-Agency-Website/
 
 ---
 
-
-[twitter]: https://twitter.com/m90khan
 [youtube]: https://www.youtube.com/channel/UC96rVfdTKsjZpREnH6CaCOw
-[instagram]: https://www.instagram.com/uxd.khan/
+[twitter]: https://twitter.com/m90khan
 [linkedin]: www.linkedin.com/in/uxdkhan
-
-
+[instagram]: https://www.instagram.com/uxd.khan/
