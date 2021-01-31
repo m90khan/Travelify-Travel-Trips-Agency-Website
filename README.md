@@ -26,8 +26,8 @@ Single Page Website <br />
 ### About the Project
 
 Live: https://m90khan.github.io/Travelify-Travel-Trips-Agency-Website/
-<img src="./img/Travelify-Cover.jpg">
-<img src="./img/Travelify.jpg">
+<img src="./Travelify-Cover.jpg">
+<img src="./Travelify.jpg">
 
 ### Connect with me:
 
